@@ -1,4 +1,3 @@
-```markdown
 # Practica4-EdD
 Practica correspondiente al curso de Estructura de Datos 2026-2 <br>
 <br>
