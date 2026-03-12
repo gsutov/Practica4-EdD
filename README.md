@@ -14,7 +14,7 @@ Practica correspondiente al curso de Estructura de Datos 2026-2 <br>
 ---
 
 ### 1. Objetivo <br>
-[cite_start]Implementar la estructura de datos **ListaLigadaSimple** y utilizarla para resolver el problema del torneo de Lima Lama planteado en la práctica 2[cite: 640, 644, 661]. <br>
+[cite_start]Implementar la estructura de datos **ListaLigadaSimple** y utilizarla para resolver el problema del torneo de Lima Lama planteado en la práctica 2 https://github.com/gsutov/Practica2-EdD.git <br>
 
 ### 2. Instrucciones <br>
 #### Tarea 1: Implementación de ListaLigadaSimple <br>
